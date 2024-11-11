@@ -1,0 +1,2 @@
+The Leads Tracker Chrome extension is a personal productivity tool that helps users easily save, manage, and organize web links (or "leads") directly in their browser. This extension allows users to add new links, save the current tab, and delete all saved leads with a few clicks. 
+Saved leads are stored locally in the browser’s localStorage, so they persist between sessions, making it easy to access links anytime.
